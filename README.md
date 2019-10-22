@@ -1,4 +1,4 @@
-# Analysis-on-schooldata
+# Analysis-on-schooldata using Spark-RDD's
 Analysis on School dataset using Spark-RDD's
 
 Given a school database in the following format in a file.
